@@ -4,7 +4,7 @@ Một nền tảng thư viện phi tập trung được xây dựng trên Polkad
 
 ## 📚 Tổng quan
 
-Dự án Decentralized Library là một nền tảng cho phép:
+Dự án DotDocs là một nền tảng cho phép:
 - Chia sẻ và mua bán sách điện tử dưới dạng NFT
 - Mượn sách thông qua hợp đồng thông minh với cơ chế tự động trả sách
 - Nhận phần thưởng token cho việc đóng góp tài liệu học thuật có giá trị
