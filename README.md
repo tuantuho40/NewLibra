@@ -40,7 +40,7 @@ Dự án Decentralized Library là một nền tảng cho phép:
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/defi-library
+git clone https://github.com/tuantuho40/NewLibra/defi-library
 cd defi-library
 ```
 
