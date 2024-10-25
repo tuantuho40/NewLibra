@@ -125,12 +125,6 @@ Chúng tôi rất hoan nghênh mọi đóng góp! Hãy:
 
 Dự án được phân phối dưới giấy phép MIT. Xem `LICENSE` để biết thêm thông tin.
 
-## 📞 Liên hệ
-
-- Website: [your-website.com](https://your-website.com)
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Telegram: [t.me/groupname](https://t.me/groupname)
 
 ## 🙏 Cảm ơn
 
@@ -140,4 +134,3 @@ Dự án được phân phối dưới giấy phép MIT. Xem `LICENSE` để bi�
 - Cộng đồng Open Source
 
 ---
-Made with ❤️ by [Your Name/Team]
